@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "portfoliowebsite"
+version = "0.1.0"
+description = ""
+authors = ["Łukasz Kuk <lukasz0104201@wp.pl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
