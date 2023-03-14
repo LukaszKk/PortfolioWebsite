@@ -5,6 +5,7 @@ from send_email import send_email
 
 class ContactMe:
     def __init__(self):
+        st.set_page_config(page_title="Contact Me")
         st.header("Contact Me")
         self._email_form()
 

@@ -5,7 +5,7 @@ from utils.utils import IMAGES, PHOTO, TITLE, SELF_DESCRIPTION, APPS_TITLE, DATA
 
 class Home:
     def __init__(self):
-        st.set_page_config(layout="wide")
+        st.set_page_config(page_title="Home", layout="wide")
         self.self_description()
         self.apps_description()
 
