@@ -32,14 +32,20 @@ class Home:
                 st.header(row["title"])
                 st.write(row["description"])
                 st.image(rf"{IMAGES}/{row['image']}", width=300)
-                st.write(f"[Source Code]({row['url']})")
+                if pd.isna(row['url']):
+                    st.write(f"Source Code - tbd")
+                else:
+                    st.write(f"[Source Code]({row['url']})")
 
         with col4:
             for index, row in df[1::2].iterrows():
                 st.header(row["title"])
                 st.write(row["description"])
                 st.image(rf"{IMAGES}/{row['image']}", width=300)
-                st.write(f"[Source Code]({row['url']})")
+                if pd.isna(row['url']):
+                    st.write(f"Source Code - tbd")
+                else:
+                    st.write(f"[Source Code]({row['url']})")
 
 
 if __name__ == "__main__":

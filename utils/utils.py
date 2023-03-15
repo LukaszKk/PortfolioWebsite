@@ -1,5 +1,5 @@
 IMAGES = r"data/images"
-PHOTO = rf"{IMAGES}/0.jpg"
+PHOTO = rf"{IMAGES}/0.png"
 DATA = r"data/data.csv"
 TITLE = "Lukasz Kuk"
 SELF_DESCRIPTION = """
