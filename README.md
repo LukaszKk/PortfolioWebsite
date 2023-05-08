@@ -9,7 +9,7 @@ Website contains the following links:
 2. Online Store - A Django online store app where users can place orders and sellers can manage them. - tbd
 3. Restaurant Menu Web App - A Django web app to let customers see a restaurant menu and meal availability. - tbd
 4. Open Domain Chatbot - A chatbot built that can discuss anything with a human and is built using the Facebook API. - tbd
-5. Helper Chatbot - A chatbot that knows about a specific topic and answers questions regarding that topic. - tbd
+5. Helper Chatbot - A chatbot that knows about a specific topic and answers questions regarding that topic. - https://github.com/LukaszKk/chatbot-gpt-gui
 6. Student Management System - A desktop PyQt6 GUI app for managing university student data with an SQL database backend. - https://github.com/LukaszKk/student-management-system
 7. Tour Scraper - A program that checks a music band's website and sends an email when there are new tours. - https://github.com/LukaszKk/scraping-tours-sql
 8. Book analysis - A script analyse the book. - https://github.com/LukaszKk/book-analysis
