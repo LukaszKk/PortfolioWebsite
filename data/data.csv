@@ -11,6 +11,7 @@ Tour Scraper;A program that checks a music band's website and sends an email whe
 Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/LukaszKk/student-management-system;17.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://github.com/LukaszKk/chatbot-gpt-gui;9.png
 Flask Form;Job application form built with Flask.;https://github.com/LukaszKk/flask-form;10.png
+Django Form;Job application form built with Django.;https://github.com/LukaszKk/django-form;10.png
 Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;;19.png
 Online Store;A Django online store app where users can place orders and sellers can manage them.;;20.png
 AdventOfCode2022;Advent calendar of programming puzzles.;https://github.com/LukaszKk/AdventOfCode2022;10.png
