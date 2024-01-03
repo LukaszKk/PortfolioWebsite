@@ -2,7 +2,7 @@
 name = "portfoliowebsite"
 version = "0.1.0"
 description = ""
-authors = ["Łukasz Kuk <lukasz0104201@wp.pl>"]
+authors = ["Łukasz Kuk <lukasz010420@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
